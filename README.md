@@ -10,6 +10,7 @@ The increment counter project consists of the following files:
 - `style.css`: The CSS file that defines the styles and layout of the counter.
 - `script.js`: The JavaScript file that implements the counter functionality.
 
+#Live : https://prernasingh01.github.io/incrementCounter/
 ## Usage
 
 To use the increment counter, follow these steps:
